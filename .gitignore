@@ -1,3 +1,3 @@
 node_modules
 
-DB_STRING = 'mongodb+srv://edtroit:eQ4pFRwdIeAj41aJ@cluster0.zzgwqd8.mongodb.net/?retryWrites=true&w=majority'
+.env
