@@ -12,3 +12,8 @@ const TodoSchema = new mongoose.Schema({
 })
 
 module.exports = mongoose.model('Todo', TodoSchema)
+
+
+//What is MVC
+//Need to really emphazise what is a Schema in lecture
+//what is mongoose
